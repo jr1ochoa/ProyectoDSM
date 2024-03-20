@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+    <!--string para el botón de inicio de sesión-->
+    <string name="login">Login</string>
+    <!--string para la sugerencia de edición de texto en contraseña-->
+    <string name="enter_password">Ingresa la contraseña</string>
+    <!--string para editar texto en correo eelctronico-->
+    <string name="enter_youe_email">Ingresa tu correo</string>
+    <!--string for el botón de cerrar sesión-->
+    <string name="logout">Logout</string>
+</resources>
