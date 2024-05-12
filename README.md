@@ -6,7 +6,7 @@ Integrantes
 |José Roberto Ochoa Medrano |OM172014|
 
 
-Documento de investigación Fase 1
+Documento de investigación
 -
 _[https://drive.google.com/file/d/1MKv-t6QBgnly69NmsoZCcFIx7TSQcI54/view?usp=sharing](https://drive.google.com/file/d/13XFbUho9kr3GF37KWFKJ-1KnMeXT8YHY/view?usp=sharing)_
 
@@ -20,7 +20,7 @@ _https://drive.google.com/file/d/1HNmWLgsg9xWTji_mabiPqn5JGjGJNrn2/view?usp=shar
 
 Manual técnico 
 -
-
+_https://drive.google.com/file/d/1ZjWuPE80aH7m7WKUxxZrHqz2tZvogpzf/view?usp=sharing_
 
 Segunda Fase de proyecto
 -
