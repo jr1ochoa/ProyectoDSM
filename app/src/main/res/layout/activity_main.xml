@@ -1,46 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?> 
-<RelativeLayout
-	xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:app="http://schemas.android.com/apk/res-auto"
-	xmlns:tools="http://schemas.android.com/tools"
-	android:layout_width="match_parent"
-	android:layout_height="match_parent"
-	tools:context=".MainActivity"> 
-
- <LinearLayout
-	 android:layout_width="match_parent"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:gravity="center_horizontal">
 
-    <EditText
-        android:id="@+id/username"
+
+    <androidx.fragment.app.FragmentContainerView
+        android:layout_width="393dp"
+        android:layout_height="571dp" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Username" />
+        android:layout_height="match_parent"
+        app:backgroundTint="#2E5164"
+        app:menu="@menu/bottom_menu" />
 
-    <EditText
-        android:id="@+id/password"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Password"
-        android:inputType="textPassword" />
-
-    <Button
-        android:id="@+id/loginButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Login" />
-
-	 <ImageView
-		 android:id="@+id/imageView"
-		 android:layout_width="match_parent"
-		 android:layout_height="wrap_content"
-		 tools:srcCompat="@tools:sample/avatars" />
-
- </LinearLayout>
-
-
-
-</RelativeLayout>
-
+</LinearLayout>

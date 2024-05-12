@@ -1,0 +1,95 @@
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="0dp"
+        android:background="#FFFFFF"
+        android:gravity="left"
+        android:text="Pacientes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#2E5164"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:text="Registrar un nuevo Paciente"
+        android:textColor="#2E5164"
+        android:textSize="24dp"
+        tools:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="32dp"
+        android:text="Por favor ingresa los datos"
+        android:textColor="#C1C1C1"
+        tools:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextDoctorName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:autofillHints="name"
+        android:hint="@string/name"
+        android:inputType="textPersonName"
+        android:text="Nombre"
+        android:textColor="#C1C1C1" />
+
+    <EditText
+        android:id="@+id/editTextDoctorLastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:autofillHints="lastName"
+        android:hint="@string/last_name"
+        android:inputType="textPersonName"
+        android:text="Raza"
+        android:textColor="#C1C1C1" />
+
+    <EditText
+        android:id="@+id/editTextDoctorEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="16dp"
+        android:autofillHints="emailAddress"
+        android:hint="@string/email"
+        android:inputType="text|textPersonName"
+        android:text="Responsable"
+        android:textColor="#C1C1C1" />
+
+    <Button
+        android:id="@+id/buttonCreateDoctor"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:backgroundTint="#2E5164"
+        android:text="@string/create_doctor"
+        android:textColor="#F8F8F8"
+        app:rippleColor="#2E5164"
+        app:strokeColor="#2E5164"
+        tools:backgroundTint="#2E5164" />
+
+</LinearLayout>
