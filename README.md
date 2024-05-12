@@ -16,7 +16,7 @@ _https://www.canva.com/design/DAGASTNwuFs/nU7nzBtnz77badYt5Xw0ig/view?mode=proto
 
 Manual de usuario
 -
-
+_https://drive.google.com/file/d/1HNmWLgsg9xWTji_mabiPqn5JGjGJNrn2/view?usp=sharing_
 
 Manual técnico 
 -
