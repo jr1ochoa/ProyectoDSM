@@ -26,6 +26,10 @@ Segunda Fase de proyecto
 -
 _https://www.youtube.com/watch?v=xtsiCrekha8_
 
+Tercera Fase de proyecto
+-
+_https://www.youtube.com/watch?v=Pjn7MpyWoBg_
+
 
 ## Licencia 
 Este repositorio está bajo licencia Creative Commons Attribution (CC BY), lo que permite el uso y distribución del contenido, incluso con fines comerciales, siempre y cuando se otorgue el crédito adecuado al autor original. Se debe incluir un enlace a la licencia y se debe indicar si se han realizado cambios al trabajo. La atribución debe hacerse de manera razonable, sin implicar que el licenciante respalda al usuario o su uso del trabajo. Al adaptar, modificar o construir sobre el trabajo original, se debe distribuir la contribución bajo la misma licencia CC BY. No se deben añadir restricciones adicionales que limiten el uso permitido por la licencia a otros usuarios, lo que garantiza la accesibilidad y reutilización del contenido promoviendo la creatividad y la colaboración continua.
