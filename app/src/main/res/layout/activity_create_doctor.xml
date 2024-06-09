@@ -86,7 +86,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
         android:backgroundTint="#2E5164"
-        android:text="@string/create_doctor"
+        android:text="Registrar Doctor"
         android:textColor="#F8F8F8"
         app:rippleColor="#2E5164"
         app:strokeColor="#2E5164"

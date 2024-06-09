@@ -34,8 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
-        android:autofillHints="emailAddress"
-        android:hint="@string/name"
+        android:hint="Nombre"
         android:inputType="textPersonName"
         android:textColor="#C1C1C1" />
 
@@ -46,7 +45,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
         android:autofillHints="lastName"
-        android:hint="@string/last_name"
+        android:hint="Apellido"
         android:inputType="textPersonName"
         android:textColor="#C1C1C1" />
 
@@ -57,7 +56,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
         android:autofillHints="emailAddress"
-        android:hint="@string/email"
+        android:hint="Correo"
         android:inputType="textEmailAddress"
         android:textColor="#C1C1C1" />
 
@@ -69,7 +68,7 @@
         android:layout_marginRight="25dp"
         android:layout_marginBottom="16dp"
         android:autofillHints="password"
-        android:hint="@string/password"
+        android:hint="Contraseña"
         android:inputType="textPassword"
         android:textColor="#C1C1C1" />
 
@@ -80,7 +79,7 @@
         android:layout_marginLeft="25dp"
         android:layout_marginRight="25dp"
         android:backgroundTint="#2E5164"
-        android:text="@string/register"
+        android:text="Registrarse"
         android:textColor="#F8F8F8" />
 
     <Button
@@ -91,7 +90,7 @@
         android:layout_marginRight="25dp"
         android:backgroundTint="#EDEDED"
         android:drawablePadding="10dp"
-        android:text="@string/continue_with_google"
+        android:text="Continuar con Google"
         android:textColor="#343341"
         android:textColorHint="#EDEDED" />
 
@@ -107,7 +106,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/textSignIn"
+            android:text="¿Ya tienes una cuenta?"
             android:textColor="@color/black"
             android:textSize="16sp" />
 
@@ -118,7 +117,7 @@
             android:layout_marginStart="4dp"
             android:clickable="true"
             android:focusable="true"
-            android:text="@string/sign_in"
+            android:text="Iniciar sesión"
             android:textColor="#2E5164"
             android:textSize="16sp"
             android:textStyle="bold" />

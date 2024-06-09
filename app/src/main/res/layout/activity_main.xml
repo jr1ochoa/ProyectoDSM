@@ -9,12 +9,12 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:layout_width="393dp"
-        android:layout_height="571dp" />
+        android:layout_height="632dp" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="68dp"
         app:backgroundTint="#2E5164"
-        app:menu="@menu/bottom_menu" />
+        app:menu="@menu/bottom_nav_menu" />
 
 </LinearLayout>
